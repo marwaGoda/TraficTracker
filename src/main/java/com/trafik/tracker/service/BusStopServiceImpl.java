@@ -8,7 +8,6 @@ import com.trafik.tracker.integration.model.LineJourney;
 import com.trafik.tracker.integration.model.StopResponse;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
