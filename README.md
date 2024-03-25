@@ -33,7 +33,7 @@ Once the application is running, you can use the provided APIs to fetch informat
 
 ## Configuration
 The application uses external configuration properties for endpoints and file paths.
-You can configure these properties in the `application.properties` file located in the `src/main/resources` directory.
+`application.properties` file located in the `src/main/resources` directory.
 
 For fetching LineJourney, due to limitation of new SL API 
 the application uses a stub file located at `src/main/resources/journey_response_stub.json`.
