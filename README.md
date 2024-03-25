@@ -25,7 +25,7 @@ To use Traffic Tracker, follow these steps:
 4. Run the application: `java -jar build/libs/TraficTracker-0.0.1-SNAPSHOT.jar`
 
 ## Usage
-Once the application is running, you can use the provided APIs to fetch information about bus lines and stops. Here are some example API endpoints:
+Once the application is running, you can use the provided APIs to fetch information about bus lines and stops. Here are the initial API endpoints:
 
 - `GET /bus/top10lines` - Fetch the top 10 bus lines with the most stops
 - `GET /bus/detailedLines` - Fetch the bus lines with their stops
